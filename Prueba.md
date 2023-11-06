@@ -1,1 +1,1 @@
-"Prueba git conflicto 1" 
+"Prueba git1" 
